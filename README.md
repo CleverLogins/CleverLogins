@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
 - 💬 Ask me about web development, JavaScript, Python, and cloud services.
-- 📫 How to reach me: cleverlogins@example.com
+- 📫 How to reach me: zprice720@gmail.com
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Technologies & Tools
